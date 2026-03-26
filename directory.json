@@ -7,7 +7,7 @@
       "toolName": "Vital ER",
       "healthSystem": "Vital",
       "platform": "Vital ER guides patients through the emergency room experience, using AI to predict wait times, translated notes into patient friendly language, and match video education to relevant patient symptoms or diagnoses.",
-      "category": "Other",
+      "category": "Explain, Simplify or Translate",
       "totalScore": 63,
       "sections": {
         "scoreTraining": 5,
@@ -25,7 +25,7 @@
       "toolName": "Doctor to Patient Translator",
       "healthSystem": "Vital",
       "platform": "",
-      "category": "Other",
+      "category": "Explain, Simplify or Translate",
       "totalScore": 58,
       "sections": {
         "scoreTraining": 7,
@@ -43,7 +43,7 @@
       "toolName": "Vital Emergency",
       "healthSystem": "Vital",
       "platform": "Vital ER including Doctor-to-Patient translation.",
-      "category": "Other",
+      "category": "Explain, Simplify or Translate",
       "totalScore": 52,
       "sections": {
         "scoreTraining": 7,
@@ -61,7 +61,7 @@
       "toolName": "GPT5 Health",
       "healthSystem": "OpenAI",
       "platform": "",
-      "category": "Other",
+      "category": "Large Language Model",
       "totalScore": 30,
       "sections": {
         "scoreTraining": 0,
@@ -79,7 +79,7 @@
       "toolName": "Original ChatGPT 3.0",
       "healthSystem": "OpenAI Test",
       "platform": "Aaron testing the system.",
-      "category": "Other",
+      "category": "Large Language Model",
       "totalScore": 24,
       "sections": {
         "scoreTraining": 0,
