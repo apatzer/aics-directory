@@ -1,0 +1,96 @@
+{
+  "generatedAt": "2026-03-26T02:20:33.748Z",
+  "maxScore": 64,
+  "entries": [
+    {
+      "id": "6434655287212969431",
+      "toolName": "Vital ER",
+      "healthSystem": "Vital",
+      "platform": "Vital ER guides patients through the emergency room experience, using AI to predict wait times, translated notes into patient friendly language, and match video education to relevant patient symptoms or diagnoses.",
+      "category": "Other",
+      "totalScore": 63,
+      "sections": {
+        "scoreTraining": 5,
+        "scorePrediction": 4,
+        "scoreValidation": 12,
+        "scoreProtecting": 26,
+        "scorePersonalization": 7,
+        "scorePatientAgency": 3
+      },
+      "date": "2026-01-05 18:38:48",
+      "permalink": "https://www.jotform.com/submission/6434655287212969431"
+    },
+    {
+      "id": "6471834017215548561",
+      "toolName": "Doctor to Patient Translator",
+      "healthSystem": "Vital",
+      "platform": "",
+      "category": "Other",
+      "totalScore": 58,
+      "sections": {
+        "scoreTraining": 7,
+        "scorePrediction": 5,
+        "scoreValidation": 11,
+        "scoreProtecting": 21,
+        "scorePersonalization": 7,
+        "scorePatientAgency": 4
+      },
+      "date": "2026-02-17 19:23:21",
+      "permalink": "https://www.jotform.com/submission/6471834017215548561"
+    },
+    {
+      "id": "6458840807218368410",
+      "toolName": "Vital Emergency",
+      "healthSystem": "Vital",
+      "platform": "Vital ER including Doctor-to-Patient translation.",
+      "category": "Other",
+      "totalScore": 52,
+      "sections": {
+        "scoreTraining": 7,
+        "scorePrediction": 5,
+        "scoreValidation": 11,
+        "scoreProtecting": 14,
+        "scorePersonalization": 7,
+        "scorePatientAgency": 4
+      },
+      "date": "2026-02-02 18:28:00",
+      "permalink": "https://www.jotform.com/submission/6458840807218368410"
+    },
+    {
+      "id": "6461247777218399232",
+      "toolName": "GPT5 Health",
+      "healthSystem": "OpenAI",
+      "platform": "",
+      "category": "Other",
+      "totalScore": 30,
+      "sections": {
+        "scoreTraining": 0,
+        "scorePrediction": 0,
+        "scoreValidation": 9,
+        "scoreProtecting": 12,
+        "scorePersonalization": 6,
+        "scorePatientAgency": 1
+      },
+      "date": "2026-02-05 13:19:38",
+      "permalink": "https://www.jotform.com/submission/6461247777218399232"
+    },
+    {
+      "id": "6489804987213429631",
+      "toolName": "Original ChatGPT 3.0",
+      "healthSystem": "OpenAI Test",
+      "platform": "Aaron testing the system.",
+      "category": "Other",
+      "totalScore": 24,
+      "sections": {
+        "scoreTraining": 0,
+        "scorePrediction": 2,
+        "scoreValidation": 3,
+        "scoreProtecting": 13,
+        "scorePersonalization": 4,
+        "scorePatientAgency": 0
+      },
+      "date": "2026-03-10 15:34:58",
+      "permalink": "https://www.jotform.com/submission/6489804987213429631"
+    }
+  ]
+}
