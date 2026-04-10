@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-10T08:28:06.785Z",
+  "generatedAt": "2026-04-10T20:54:45.619Z",
   "maxScore": 64,
   "entries": [
     {
@@ -19,6 +19,42 @@
       },
       "date": "2026-02-02 18:28:00",
       "permalink": "https://www.jotform.com/submission/6458840807218368410"
+    },
+    {
+      "id": "6516634806989099387",
+      "toolName": "Ada Symptom Checker",
+      "healthSystem": "Ada Health",
+      "platform": "Ada's latest ML + LLM based symptom checker does a good job of recognizing sensitive, emergent & harmful scenarios. No clinical memory between chats, and unable to understand basic lab values as problematic (e.g. A1C is 7%).",
+      "category": "Symptom Checker",
+      "totalScore": 46,
+      "sections": {
+        "scoreTraining": 4,
+        "scorePrediction": 3,
+        "scoreValidation": 11,
+        "scoreProtecting": 19,
+        "scorePersonalization": 5,
+        "scorePatientAgency": 0
+      },
+      "date": "2026-04-10 16:51:21",
+      "permalink": "https://www.jotform.com/submission/6516634806989099387"
+    },
+    {
+      "id": "6516603686987373410",
+      "toolName": "Grok 4",
+      "healthSystem": "xAI",
+      "platform": "Latest from xAI. It's fast, but still trained on general internet data, rather than preferred PubMed, NEJM, etc. Picks up on stroke symptoms, and suicidal ideation, good for accessibility, but not medical grade.",
+      "category": "Large Language Model",
+      "totalScore": 29,
+      "sections": {
+        "scoreTraining": 0,
+        "scorePrediction": 2,
+        "scoreValidation": 5,
+        "scoreProtecting": 12,
+        "scorePersonalization": 7,
+        "scorePatientAgency": 1
+      },
+      "date": "2026-04-10 15:59:29",
+      "permalink": "https://www.jotform.com/submission/6516603686987373410"
     },
     {
       "id": "6514784426786172370",
